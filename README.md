@@ -1,4 +1,4 @@
-#  Battleship Game
+#  Battleship Simulator
 
 A classic **Battleship** game implementation in C++ with colorful console graphics for Windows. Challenge the computer in an exciting naval warfare strategy game!
 
